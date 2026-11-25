@@ -29,3 +29,4 @@ Cada push ejecuta GitHub Actions para validar:
 - Estructura del JSON final
 - Cálculos correctos
 - Código ejecutable
+
